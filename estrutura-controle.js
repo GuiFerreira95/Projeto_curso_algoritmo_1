@@ -1,4 +1,5 @@
 /*
+   var
    nota1, nota2, media: real
    nome: caractere
 

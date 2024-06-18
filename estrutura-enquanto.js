@@ -1,11 +1,9 @@
 /*
 Var
-// Seção de Declarações das variáveis 
       nome: caracter
       idade, limite, contador: inteiro
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+Inicio 
      escreva("Digite a quantidade de vezes que será verificado a idade:  ")
      leia(limite)
      contador := 0

@@ -1,10 +1,8 @@
 /*
 Var
-// Seção de Declarações das variáveis 
       numero, fatorial, contador: inteiro
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+Inicio 
       escreva("Digite o número para calcular o fatorial:  ")
       leia(numero)
       fatorial := 1

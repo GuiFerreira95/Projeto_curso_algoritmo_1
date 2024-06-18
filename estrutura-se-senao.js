@@ -1,11 +1,9 @@
 /*
 Var
-// Seção de Declarações das variáveis 
      valor1, valor2, resultado: real
      operacao: caractere
      
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
       //("A proposta desse programa é calcular dois valores de sua escolha.")
       
       escreva("Digite o valor 1: ")

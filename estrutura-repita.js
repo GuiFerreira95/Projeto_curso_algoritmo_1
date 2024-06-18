@@ -1,11 +1,9 @@
 /*
 Var
-// Seção de Declarações das variáveis 
         sairLoop: caractere
         valor1, valor2: real
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+Inicio 
    repita
          escreva("Digite o Primeiro valor: ")
          leia(valor1)
