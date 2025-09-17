@@ -21,3 +21,12 @@ Este repositório contém uma coleção de exercícios de lógica de programaç�
 1. Clone este repositório:
    ```bash
    git clone https://github.com/GuiFerreira95/Projeto_curso_algoritmo_1.git
+
+📬 Contato
+Para dúvidas ou sugestões, entre em contato comigo:
+
+E-mail: guiferreira02@hotmail.com
+
+LinkedIn: linkedin.com/in/guilherme-ferreira-bezerra
+
+GitHub: github.com/GuiFerreira95
